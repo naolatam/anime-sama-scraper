@@ -24,7 +24,7 @@ Programme écrit et imaginé par: [MATA Loan](https://github.com/naolatam)
 # Prérequis:
 
 - Python 3 (utilisé sur la 3.11)
-- mysql-connector-python, selenium
+- mysql-connector-python, selenium, requests
 
 <br/><br/>
 
