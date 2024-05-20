@@ -72,5 +72,5 @@ $ python3 main.py
 
 # Erreurs
 - Si vous utilisez les threads, il se peut que le code rencontre des erreurs. Dans quel cas les épisodes ne seront pas upload sur filemoon.sx
-
+- Il est compliqué d'utiliser le webdriver sur linux. Une solutions doit être développé!
 <br/><br/>
